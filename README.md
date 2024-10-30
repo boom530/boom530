@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bunyakon Wichittananthakun</h1>
-<h3 align="center">Undergraduate from phayao university</h3>
+<h3 align="center">Undergraduate student from phayao university</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boom530&label=Profile%20views&color=0e75b6&style=flat" alt="boom530" /> </p>
 
